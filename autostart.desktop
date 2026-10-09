@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=always-xkcd
+Type=Application
+Exec=~/opt/always-xkcd/run.sh
+Terminal=false
+StartupNotify=false
+Comment=Run always-xkcd
