@@ -1,2 +1,2 @@
 # always-xkcd
-Get daily xkcd memes as soon as your computer boots up!
+Get daily xkcd comics as soon as your computer boots up!
